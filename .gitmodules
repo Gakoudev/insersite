@@ -1,6 +1,6 @@
-[submodule "parcours-num-backend"]
+[submodule "BackEnd"]
 	path = parcours-num-backend
 	url = https://github.com/Gakoudev/parcours-num-backend.git
-[submodule "parcours-num"]
+[submodule "FrontEnd"]
 	path = parcours-num
 	url = https://github.com/Gakoudev/parcours-num.git
